@@ -1,0 +1,349 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\mywebsite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\mywebsite.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\creative-cv_free_1-1-0.zip",
+      "PackagePath": "staticwebassets\\creative-cv_free_1-1-0.zip"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\LICENSE-free.txt",
+      "PackagePath": "staticwebassets\\ibrahim\\LICENSE-free.txt"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\README.txt",
+      "PackagePath": "staticwebassets\\ibrahim\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\creative-cv.png",
+      "PackagePath": "staticwebassets\\ibrahim\\creative-cv.png"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\css\\aos.css",
+      "PackagePath": "staticwebassets\\ibrahim\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\ibrahim\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\css\\main.css",
+      "PackagePath": "staticwebassets\\ibrahim\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\favicon.ico",
+      "PackagePath": "staticwebassets\\ibrahim\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\images\\cc-bg-1.jpg",
+      "PackagePath": "staticwebassets\\ibrahim\\images\\cc-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\images\\ibrahim.png",
+      "PackagePath": "staticwebassets\\ibrahim\\images\\ibrahim.png"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\index.html",
+      "PackagePath": "staticwebassets\\ibrahim\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\js\\aos.js",
+      "PackagePath": "staticwebassets\\ibrahim\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\ibrahim\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\js\\core\\jquery.3.2.1.min.js",
+      "PackagePath": "staticwebassets\\ibrahim\\js\\core\\jquery.3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\ibrahim\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\js\\now-ui-kit.js",
+      "PackagePath": "staticwebassets\\ibrahim\\js\\now-ui-kit.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\js\\plugins\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\ibrahim\\js\\plugins\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\js\\plugins\\bootstrap-switch.js",
+      "PackagePath": "staticwebassets\\ibrahim\\js\\plugins\\bootstrap-switch.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\js\\plugins\\jquery.sharrre.js",
+      "PackagePath": "staticwebassets\\ibrahim\\js\\plugins\\jquery.sharrre.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\js\\plugins\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\ibrahim\\js\\plugins\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\ibrahim\\scripts\\main.js",
+      "PackagePath": "staticwebassets\\ibrahim\\scripts\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.mywebsite.props",
+      "PackagePath": "build\\mywebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.mywebsite.props",
+      "PackagePath": "buildMultiTargeting\\mywebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.mywebsite.props",
+      "PackagePath": "buildTransitive\\mywebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.mywebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
